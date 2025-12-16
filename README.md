@@ -6,8 +6,10 @@ With over **12 years of experience**, I focus on code quality and delivering bus
 ### 🛠️ Tech Stack & Tools
 **Frontend**
 `Angular` `TypeScript` `Vue.js` `Tailwind CSS` `Javascript`
+
 **Backend**
 `Node.js` `C# / .NET` `PHP` `C++` `PostgreSQL` `GraphQL`
+
 **DevOps & Cloud**
 `Docker` `AWS / Azure` `CI/CD (GitHub Actions)`
 
