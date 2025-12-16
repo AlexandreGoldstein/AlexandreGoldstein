@@ -15,6 +15,7 @@ With over **12 years of experience**, I focus on code quality and delivering bus
 * **Architecture:** Moving legacy monoliths to microservices (or modular monoliths).
 * **FrontEnd:** digging deeper into UX/UI & React framework lately.
 * **Collaboration:** I'm looking to collaborate on fun project (Already working on some bots & community websites).
+* I also love spending time playing chess or create some music when i have time
 
 ### 📫 Contact me
 * [LinkedIn](https://fr.linkedin.com/in/alexandre-goldstein-438018328)
