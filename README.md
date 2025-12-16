@@ -1,6 +1,6 @@
 # Oyo world !!!
 
-I'm Alexandre, a Senior Full Stack Developer specialize in building scalable web applications, optimizing performance, and i really love UX/UI and graphic design.
+I'm Alexandre, a Senior Full Stack Developer specialize in building scalable web applications, optimizing performance, and i'm really into UX/UI and graphic design overall.
 With over **12 years of experience**, I focus on code quality and delivering business value.
 
 ### 🛠️ Tech Stack & Tools
@@ -13,8 +13,8 @@ With over **12 years of experience**, I focus on code quality and delivering bus
 
 ### 🔭 Current Focus
 * **Architecture:** Moving legacy monoliths to microservices (or modular monoliths).
-* **FrontEnd:** digging UX/UI & React framework lately.
-* **Mentoring:** Helping junior devs grow through code reviews and pair programming.
+* **FrontEnd:** digging deeper into UX/UI & React framework lately.
+* **Collaboration:** I'm looking to collaborate on fun project (Already working on some bots & community websites).
 
 ### 📫 Contact me
 * [LinkedIn](https://fr.linkedin.com/in/alexandre-goldstein-438018328)
