@@ -2,8 +2,6 @@
 
 I'm a Senior Full Stack Developer specialize in building scalable web applications, optimizing performance, and i really love UX/UI and graphic design.
 With over **12 years of experience**, I focus on code quality and delivering business value.
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Frontend**
@@ -17,7 +15,7 @@ With over **12 years of experience**, I focus on code quality and delivering bus
 
 ### 🔭 Current Focus
 * **Architecture:** Moving legacy monoliths to microservices (or modular monoliths).
-* **FrontEnd:** digging React just for fun.
+* **FrontEnd:** digging UX/UI & React framework lately.
 * **Mentoring:** Helping junior devs grow through code reviews and pair programming.
 
 ### 📫 Contact me
