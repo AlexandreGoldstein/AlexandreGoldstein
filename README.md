@@ -1,7 +1,12 @@
-# Oyo world !!!
+### 🛠️ Tech Stack & Tools
+**Frontend**
+`Angular` `TypeScript` `Vue.js` `Tailwind CSS` `Javascript`
 
-I'm Alexandre, a Senior Full Stack Developer specialize in building scalable web applications, optimizing performance, and i'm really into UX/UI and graphic design overall.
-With over **12 years of experience**, I focus on code quality and delivering business value.
+**Backend**
+`Node.js` `C# / .NET` `PHP` `C++` `PostgreSQL` `GraphQL`
+
+**DevOps & Cloud**
+`Docker` `AWS / Azure` `CI/CD (GitHub Actions)`
 
 ### 🔭 Current Focus
 * **FrontEnd:** Digging into UX/UI, pixel Arts, 3D Model & React framework lately.
