@@ -3,7 +3,7 @@
 `Angular` `TypeScript` `Vue.js` `Tailwind CSS` `Javascript`
 
 **Backend**
-`Node.js` `C# / .NET` `PHP` `C++` `PostgreSQL` `GraphQL`
+`C# / .NET` `PHP` `Node.js` `C++` `PostgreSQL` `GraphQL`
 
 **DevOps & Cloud**
 `Docker` `AWS / Azure` `CI/CD (GitHub Actions)`
