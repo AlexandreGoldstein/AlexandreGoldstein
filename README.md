@@ -1,6 +1,6 @@
 ### 🛠️ Tech Stack & Tools
 **Frontend**
-`Angular` `TypeScript` `Vue.js` `Tailwind CSS` `Javascript`
+`Angular` `TypeScript` `Javascript` `Vue.js` `Tailwind CSS` `Figma`
 
 **Backend**
 `C# / .NET` `PHP` `Node.js` `C++` `PostgreSQL` `GraphQL`
