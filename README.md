@@ -9,8 +9,8 @@
 `Docker` `AWS / Azure` `CI/CD (GitHub Actions)`
 
 ### 🔭 Current Focus
-* **FrontEnd:** Digging into UX/UI, pixel Arts, 3D Model & React framework lately.
-* **Collaboration:** I'm looking to collaborate on fun project (Already working on some bots & community websites).
+* **FrontEnd:** Digging deeper into UX/UI, pixel Arts, 3D Modeling & React framework.
+* **Collaboration:** Looking to collaborate on fun projects (Already working on some bots & 3 community websites).
 * **Others:** I also love spending time playing Chess or create some Music when i have time
 
 ### 📫 Contact me
