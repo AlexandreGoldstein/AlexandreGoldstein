@@ -9,6 +9,6 @@
 `Docker` `AWS / Azure` `CI/CD (GitHub Actions)`
 
 ### 🔭 Current Focus
-* **FrontEnd:** Designing Pixel Arts & 3D Modeling, Digging deeper with every Javascript framework, study UX/UI from books.
+* **FrontEnd:** Designing Pixel Arts & 3D Modeling, trying all current Javascript framework, studying Clean Code and UX/UI from books.
 * **BackEnd:** Mostly focused on C#, NodeJS and C++, recently trying Python.
 * **Collaboration:** Looking to collaborate on fun / open source projects (Already working on some bots & 3 community websites).
