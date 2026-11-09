@@ -11,4 +11,4 @@
 ### 🔭 Current Focus
 * **FrontEnd:** Designing Pixel Arts & 3D Modeling. Keen on studying everything about modern UX/UI.
 * **BackEnd:** Mostly focused on C#, NodeJS and C++.
-* **AI:** Trying Claude Code & Cursor recently : Improving prompting skills to achieve great productivity without sacrificing quality.
+* **AI:** Using Claude Code, Codex, ChatGPT and Cursor : Improving prompting skills to achieve great productivity without sacrificing quality.
